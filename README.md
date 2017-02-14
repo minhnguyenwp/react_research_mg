@@ -69,7 +69,7 @@ VD: trang login có
 - Actions: Submit - Check Valid - Cancle - Success
 - State là Success - InValid - Begin (blank)
 
-1. Elements:
+22.1. Elements:
 - Actions: Là các hành động tương tác làm thay đổi State của Comp đó. submit hay là data dc load ve thành công.
 --> Nơi đăng ký các hành động, kể cả request API và trả ra payload.
 Payload là bất kỳ kết quả nào để thay doi giá trị state của page đó. 
@@ -92,19 +92,19 @@ trong này gọi cac reducer vào để theo dõi. file trên setup theo kiểu 
 - Middleware: Là phần thứ 3 giúp hỗ trợ theo dõi trong redux.
 --> Có thể override middleware, phần lớn là để promise chuyển tiếp giữa các action. 
 
-2. Workflow:
-2.1- Async Actions: là các xử lý trong action, rõ nhất là lấy data từ api. 
+22.2. Workflow:
+-.2.1- Async Actions: là các xử lý trong action, rõ nhất là lấy data từ api. 
 vd: https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/actions/posts.js
 
-2.2- Async Workflow: Đó là việc tạo reducer kết nối action với các state. và khai báo store để chờ theo dõi.
+-.2.2- Async Workflow: Đó là việc tạo reducer kết nối action với các state. và khai báo store để chờ theo dõi.
 
-2.3- Redux Router: 
+-.2.3- Redux Router: 
 Đây là việc khai báo kết nối giữa việc thay đổi router (đi qua lại giữa các trang) và lưu trữ history 
--.1. npm install --save react-router
--.2. xem file https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/index.js 
+-.2.3.1. npm install --save react-router
+-.2.3.2. xem file https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/index.js 
 
-23. Use parameter in URL 
+23 * Use parameter in URL:
 --> https://github.com/reactjs/react-router-tutorial/tree/master/lessons/06-params
 
-24. Ahth in React by Router. 
+24 * Ahth in React by Router. :
 https://github.com/erikras/react-redux-universal-hot-example/blob/master/src/routes.js
