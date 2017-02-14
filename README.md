@@ -73,6 +73,7 @@ https://facebook.github.io/react/docs/events.html
 https://github.com/kriasoft/react-starter-kit/blob/master/docs/recipes/how-to-use-sass.md</p>
 <p>19.2 Add Redux, thì clone nhánh redux.  
 https://github.com/kriasoft/react-starter-kit/tree/feature/redux</p>
+<p>19.3 Cmd cho react starter kit: https://github.com/kriasoft/react-starter-kit/blob/master/docs/getting-started.md</p>
 
 20 * ADMIN template based on *19: https://github.com/start-react/sb-admin-react
 
