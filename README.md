@@ -61,11 +61,14 @@ https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.h
 https://facebook.github.io/react/docs/events.html
 16. Mixin làm vai trò gì trong react.
 17. Làm sao override kế thừa 1 class.
-18. Truyền gia tri qua cac comp: 
-18.1 http://stackoverflow.com/questions/40377118/reactjs-parent-component-communicate-with-child-of-child-component
-18.2 http://stackoverflow.com/documentation/reactjs/6567/communication-between-components#t=201702060643011229497
 
-19 * Nên dùng bộ này để làm Project thật. react-starter-kit : https://github.com/kriasoft/react-starter-kit
+<p>18 * Truyền gia tri qua cac comp: </p>
+<ul>
+<li>18.1 http://stackoverflow.com/questions/40377118/reactjs-parent-component-communicate-with-child-of-child-component</li>
+<li>18.2 http://stackoverflow.com/documentation/reactjs/6567/communication-between-components#t=201702060643011229497</li>
+</ul>
+
+<p>19 * Nên dùng bộ này để làm Project thật. react-starter-kit : https://github.com/kriasoft/react-starter-kit</p>
 <p>19.1 Add sass 
 https://github.com/kriasoft/react-starter-kit/blob/master/docs/recipes/how-to-use-sass.md</p>
 <p>19.2 Add Redux, thì clone nhánh redux.  
