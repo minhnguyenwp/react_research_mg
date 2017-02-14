@@ -8,15 +8,39 @@ https://blog.duyetdev.com/2016/06/8-dieu-reactjs-beginner-nen-biet.html
 3. Props là gì? giong nhu property ngoai truyen vao trong comp. khong thay doi ben trong. 
 4. State là gì? Trang thai gia tri ben trong 1 Comp, thay doi lien tuc ben trong. 
 5. Props VS State ? props cha truyen xuong con dc, con truyen ra ngoai.
------------------------ props VS state ------------------------
-Features	                                    props	  state
-Can get initial value from parent Component?	 Yes	   Yes
-Can be changed by parent Component?	             Yes	    No
-Can set default values inside Component?*	     Yes	   Yes
-Can change inside Component?	                  No	   Yes
-Can set initial value for child Components?	     Yes	   Yes
-Can change in child Components?	                 Yes	    No
-
+<table>
+<tr><td colspan="3" align="center"> Props VS State </td></tr>
+<tr>
+  <td>Features</td>
+  <td>props</td>
+  <td>state</td>
+</tr>
+<tr>
+  <td>Can get initial value from parent Component?</td>
+  <td>Yes</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td><b>Can be changed by parent Component?</b></td>
+  <td>Yes</td>
+  <td>No</td>
+</tr>
+<tr>
+<td><b>Can set default values inside Component?</b></td>
+  <td>No</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>Can change inside Component?</td>
+  <td>Yes</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td><b>Can change in child Components?</b></td>
+  <td>Yes</td>
+  <td>No</td>
+</tr>
+</table>
 6. Làm sao truyền giá trị từ Child Comp lên Parent Comp?
 7. Ref là gì trong Comp? Truyền JSON dc không?
 8. Làm Form có validation trong reactJS làm sao?
