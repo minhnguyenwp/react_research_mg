@@ -65,13 +65,15 @@ https://facebook.github.io/react/docs/events.html
 18.1 http://stackoverflow.com/questions/40377118/reactjs-parent-component-communicate-with-child-of-child-component
 18.2 http://stackoverflow.com/documentation/reactjs/6567/communication-between-components#t=201702060643011229497
 
-19. react-starter-kit : https://github.com/kriasoft/react-starter-kit
-19.1 Add sass 
-https://github.com/kriasoft/react-starter-kit/blob/master/docs/recipes/how-to-use-sass.md
+19 * Nên dùng bộ này để làm Project thật. react-starter-kit : https://github.com/kriasoft/react-starter-kit
+<p>19.1 Add sass 
+https://github.com/kriasoft/react-starter-kit/blob/master/docs/recipes/how-to-use-sass.md</p>
+<p>19.2 Add Redux, thì clone nhánh redux.  
+https://github.com/kriasoft/react-starter-kit/tree/feature/redux</p>
 
-20. https://github.com/start-react/sb-admin-react
+20 * ADMIN template based on *19: https://github.com/start-react/sb-admin-react
 
-21. Reference
+21 * Reference
 https://www.icicletech.com/blog/16-opensource-reactjs-projects-to-learn-from
 
 Study : https://github.com/andrewngu/sound-redux 
