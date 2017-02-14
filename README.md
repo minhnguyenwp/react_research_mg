@@ -133,8 +133,11 @@ vd: https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/actions
 -.2.3.1. npm install --save react-router
 -.2.3.2. xem file https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/index.js 
 
+<p># Xem cấu trúc file 1 redux đơn giản có tương tác API: https://github.com/codeaholicguy/react-redux-tutorial/tree/master/authentication-with-soundcloud/src </p>
+
 23 * Use parameter in URL:
 --> https://github.com/reactjs/react-router-tutorial/tree/master/lessons/06-params
 
 24 * Auth in React by Router. :
 https://github.com/erikras/react-redux-universal-hot-example/blob/master/src/routes.js
+Xem các bước làm: https://gist.github.com/iNikNik/f39c7dbeef384966c5ec#file-0-redux-auth-md
