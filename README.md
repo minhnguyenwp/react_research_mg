@@ -130,5 +130,5 @@ vd: https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/actions
 23 * Use parameter in URL:
 --> https://github.com/reactjs/react-router-tutorial/tree/master/lessons/06-params
 
-24 * Ahth in React by Router. :
+24 * Auth in React by Router. :
 https://github.com/erikras/react-redux-universal-hot-example/blob/master/src/routes.js
