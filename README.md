@@ -1,7 +1,7 @@
-**React Quiz**
--- 8 lưu ý khi làm việc với React.
+<h1>**React JS Note**</h1>
+<p> 8 lưu ý khi làm việc với React.
 https://blog.duyetdev.com/2016/06/8-dieu-reactjs-beginner-nen-biet.html
-
+</p>
 1. JSX làm gì trong REACTJS
 2. Babel là gì? 
 
