@@ -84,6 +84,8 @@ Study : https://github.com/andrewngu/sound-redux
 ReactJS + Redux + backend.
 
 22 * Redux Study.
+* --> Lý thuyết và từng bước: http://stackoverflow.com/documentation/react-redux/5797/getting-started-with-react-redux#t=201702230437586729831
+
 https://github.com/erikras/react-redux-universal-hot-example
 https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.koqrvuca8
 
