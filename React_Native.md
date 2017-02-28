@@ -28,7 +28,7 @@
 <h3>6. Cách viết App có Login & Register</h3>
 https://www.youtube.com/playlist?list=PLkdLxQVsHYXxteWDEgOODl_UcRaa4x6t6
 <hr />
-Sau khi đọc hiểu cài được môi trường. Viết thử 1 APP như vd này. trước khi làm việc dự án chính.
+<b style="color: 'red'">Sau khi đọc hiểu cài được môi trường</b>. Viết thử 1 APP như vd này. trước khi làm việc dự án chính.
 https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 --> Viết detail cho 1 Book nữa. 
 * Có thể phải mua cái source này để nghiên cứu: https://codecanyon.net/item/beostore-complete-react-native-template-for-ecommerce/17010642
