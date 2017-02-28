@@ -34,3 +34,4 @@ https://www.youtube.com/playlist?list=PLkdLxQVsHYXxteWDEgOODl_UcRaa4x6t6
 https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 --> Viết detail cho 1 Book nữa. 
 * Có thể phải mua cái source này để nghiên cứu: https://codecanyon.net/item/beostore-complete-react-native-template-for-ecommerce/17010642
+<p>Completed Source : https://github.com/7kfpun/FinanceReactNative </p>
