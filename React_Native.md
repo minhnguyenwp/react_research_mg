@@ -25,3 +25,10 @@
 <h3>5. Redux </h3>
 <p>Video hướng dẫn cài Redux cho REACT N https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 </p>
 <p>Source mẫu: https://github.com/aksonov/react-native-redux-router</p>
+<h3>6. Cách viết App có Login & Register</h3>
+https://www.youtube.com/playlist?list=PLkdLxQVsHYXxteWDEgOODl_UcRaa4x6t6
+<hr />
+Sau khi đọc hiểu cài được môi trường. Viết thử 1 APP như vd này. trước khi làm việc dự án chính.
+https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
+--> Viết detail cho 1 Book nữa. 
+* Có thể phải mua cái source này để nghiên cứu: https://codecanyon.net/item/beostore-complete-react-native-template-for-ecommerce/17010642
