@@ -14,6 +14,7 @@
 <p>* Nhớ xem các dùng FLEX để chia cột hàng vì APP nó không có dùng CSS như web.</p>
 <p>--> Dùng với bộ UI component http://nativebase.io/ </p>
 <p>--> LightBox https://github.com/oblador/react-native-lightbox </p>
+<p>--> Slider https://github.com/leecade/react-native-swiper</p>
 <p>* Đủ thứ đồ chơi của RN: http://reactscript.com/</p>
 <h3>3. Viết 1 Component trong RN giống như làm với ReactJS</h3>
 <p>Xem trong Khoa Phạm có nói rất dễ hiểu</p>
