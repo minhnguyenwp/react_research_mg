@@ -12,7 +12,8 @@
 <h3>2. Style trong RN</h3>
 <p>Có thể xem trong Giáo trình Khoa Phạm có nói rất dễ</p>
 <p>* Nhớ xem các dùng FLEX để chia cột hàng vì APP nó không có dùng CSS như web.</p>
-<p>--> Dùng với bộ UI component http://nativebase.io/ </p>
+<p>--> Dùng với bộ UI component https://github.com/react-native-community/react-native-elements
+<br /> hoac http://nativebase.io/ </p>
 <p>--> LightBox https://github.com/oblador/react-native-lightbox </p>
 <p>--> Slider https://github.com/leecade/react-native-swiper</p>
 <p>* Đủ thứ đồ chơi của RN: http://reactscript.com/</p>
