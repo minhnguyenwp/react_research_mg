@@ -11,10 +11,10 @@
 <a href="https://www.youtube.com/playlist?list=PLzrVYRai0riQsPYaBX-aNz8YCmtDsg17A">tại link này</a></p>
 <h3>2. Style trong RN</h3>
 <p>Có thể xem trong Giáo trình Khoa Phạm có nói rất dễ</p>
-* Nhớ xem các dùng FLEX để chia cột hàng vì APP nó không có dùng CSS như web.
+<p>* Nhớ xem các dùng FLEX để chia cột hàng vì APP nó không có dùng CSS như web.</p>
 <p>--> Dùng với bộ UI component http://nativebase.io/ </p>
 <p>--> LightBox https://github.com/oblador/react-native-lightbox </p>
-* Đủ thứ đồ chơi của RN: http://reactscript.com/
+<p>* Đủ thứ đồ chơi của RN: http://reactscript.com/</p>
 <h3>3. Viết 1 Component trong RN giống như làm với ReactJS</h3>
 <p>Xem trong Khoa Phạm có nói rất dễ hiểu</p>
 <h3>4. Router = Navigator trong RN</h3>
