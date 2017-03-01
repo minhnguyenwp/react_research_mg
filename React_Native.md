@@ -31,6 +31,10 @@
 https://www.youtube.com/playlist?list=PLkdLxQVsHYXxteWDEgOODl_UcRaa4x6t6
 <h3>7. Use REdux-Observable</h3>
 https://redux-observable.js.org/
+VD: viết thực tế https://github.com/rwieruch/react-redux-soundcloud/blob/master/extension-observable/src/actions/auth.js 
+* Sài observable khi cần có chờ AJAX. 
+- Epic = Action 
+- Dùng xen lẫn Redux va Obser
 <hr />
 <b style="color: 'red'">Sau khi đọc hiểu cài được môi trường</b>. Viết thử 1 APP như vd này. trước khi làm việc dự án chính.
 https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
