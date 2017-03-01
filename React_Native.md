@@ -29,6 +29,8 @@
 <p>Source mẫu: https://github.com/aksonov/react-native-redux-router</p>
 <h3>6. Cách viết App có Login & Register</h3>
 https://www.youtube.com/playlist?list=PLkdLxQVsHYXxteWDEgOODl_UcRaa4x6t6
+<h3>7. Use REdux-Observable</h3>
+https://redux-observable.js.org/
 <hr />
 <b style="color: 'red'">Sau khi đọc hiểu cài được môi trường</b>. Viết thử 1 APP như vd này. trước khi làm việc dự án chính.
 https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
