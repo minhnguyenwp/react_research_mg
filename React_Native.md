@@ -31,6 +31,8 @@
 https://www.youtube.com/playlist?list=PLkdLxQVsHYXxteWDEgOODl_UcRaa4x6t6
 <h3>7. Use REdux-Observable</h3>
 https://redux-observable.js.org/
+
+- Bai viet: https://www.robinwieruch.de/redux-observable-rxjs/
 VD: viết thực tế https://github.com/rwieruch/react-redux-soundcloud/blob/master/extension-observable/src/actions/auth.js 
 * Sài observable khi cần có chờ AJAX. 
 - Epic = Action 
