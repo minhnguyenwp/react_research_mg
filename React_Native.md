@@ -22,7 +22,8 @@
 <h3>4. Router = Navigator trong RN</h3>
 --> http://facebook.github.io/react-native/releases/0.41/docs/navigator.html#navigator
 --> Cách viết xem Khoa Phạm hiểu cho nhanh xong roi coi cái nâng 
-<p>--> REDUX ROUTER trong RN https://github.com/aksonov/react-native-redux-router</p>
+<p>--> REDUX-FLUX ROUTER trong RN https://github.com/aksonov/react-native-router-flux</p>
+<p>--> Muốn protect page phải dùng global state để kiểm tra</p>
 <p> Trước khi xem Link trên phải hiểu REDUX trong RN cài làm sao</p>
 <h3>5. Redux </h3>
 <p>Video hướng dẫn cài Redux cho REACT N https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 </p>
