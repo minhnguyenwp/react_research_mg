@@ -36,8 +36,10 @@ https://redux-observable.js.org/
 - Bai viet: https://www.robinwieruch.de/redux-observable-rxjs/
 VD: viết thực tế https://github.com/rwieruch/react-redux-soundcloud/blob/master/extension-observable/src/actions/auth.js 
 <p>* Sài observable khi cần có chờ AJAX. </p>
-* Epic = Action 
-* Dùng xen lẫn Redux va Obser
+<ul>
+<li>Epic = Action </li>
+<li> Dùng xen lẫn Redux va Obser</li>
+</ul>
 <hr />
 <b style="color: 'red'">Sau khi đọc hiểu cài được môi trường</b>. Viết thử 1 APP như vd này. trước khi làm việc dự án chính.
 https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
@@ -46,5 +48,5 @@ https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 <p>Completed Source : https://github.com/7kfpun/FinanceReactNative </p>
 
 8. Add custom font to RN IOS
-iOS use xCODE: https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.oimfl0i7t
-Android https://medium.com/@gattermeier/custom-fonts-in-react-native-for-android-b8a331a7d2a7#.hxsiggc30
+<p>iOS use xCODE: https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.oimfl0i7t</p>
+<p>Android https://medium.com/@gattermeier/custom-fonts-in-react-native-for-android-b8a331a7d2a7#.hxsiggc30</p>
