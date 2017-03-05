@@ -35,14 +35,14 @@ https://redux-observable.js.org/
 
 - Bai viet: https://www.robinwieruch.de/redux-observable-rxjs/
 VD: viết thực tế https://github.com/rwieruch/react-redux-soundcloud/blob/master/extension-observable/src/actions/auth.js 
-* Sài observable khi cần có chờ AJAX. 
-- Epic = Action 
-- Dùng xen lẫn Redux va Obser
+<p>* Sài observable khi cần có chờ AJAX. </p>
+* Epic = Action 
+* Dùng xen lẫn Redux va Obser
 <hr />
 <b style="color: 'red'">Sau khi đọc hiểu cài được môi trường</b>. Viết thử 1 APP như vd này. trước khi làm việc dự án chính.
 https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 --> Viết detail cho 1 Book nữa. 
-* Có thể phải mua cái source này để nghiên cứu: https://codecanyon.net/item/beostore-complete-react-native-template-for-ecommerce/17010642
+<p>* Có thể phải mua cái source này để nghiên cứu: https://codecanyon.net/item/beostore-complete-react-native-template-for-ecommerce/17010642</p>
 <p>Completed Source : https://github.com/7kfpun/FinanceReactNative </p>
 
 8. Add custom font to RN IOS
