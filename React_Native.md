@@ -44,3 +44,7 @@ https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 --> Viết detail cho 1 Book nữa. 
 * Có thể phải mua cái source này để nghiên cứu: https://codecanyon.net/item/beostore-complete-react-native-template-for-ecommerce/17010642
 <p>Completed Source : https://github.com/7kfpun/FinanceReactNative </p>
+
+8. Add custom font to RN IOS
+iOS use xCODE: https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.oimfl0i7t
+Android https://medium.com/@gattermeier/custom-fonts-in-react-native-for-android-b8a331a7d2a7#.hxsiggc30
