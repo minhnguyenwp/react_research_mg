@@ -19,6 +19,7 @@
 <p>--> Snap Carousel: slide từng item vào trọn màn hình : 
 <br />---- https://www.npmjs.com/package/react-native-snap-carousel 
 <br />---- https://github.com/machadogj/react-native-carousel-control
+<br />---- https://github.com/jaysoo/react-native-parallax-scroll-view
 </p>
 
 <p>* Đủ thứ đồ chơi của RN: http://reactscript.com/</p>
