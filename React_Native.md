@@ -16,7 +16,10 @@
 <br /> hoac http://nativebase.io/ </p>
 <p>--> LightBox https://github.com/oblador/react-native-lightbox </p>
 <p>--> Slider https://github.com/leecade/react-native-swiper</p>
-<p>--> Snap Carousel: slide từng item vào trọn màn hình : https://www.npmjs.com/package/react-native-snap-carousel </p>
+<p>--> Snap Carousel: slide từng item vào trọn màn hình : 
+<br />---- https://www.npmjs.com/package/react-native-snap-carousel 
+<br />---- https://github.com/machadogj/react-native-carousel-control
+</p>
 
 <p>* Đủ thứ đồ chơi của RN: http://reactscript.com/</p>
 <h3>3. Viết 1 Component trong RN giống như làm với ReactJS</h3>
