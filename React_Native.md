@@ -56,3 +56,6 @@ https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 <h3>8. Add custom font to RN IOS</h3>
 <p>iOS use xCODE: https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.oimfl0i7t</p>
 <p>Android https://medium.com/@gattermeier/custom-fonts-in-react-native-for-android-b8a331a7d2a7#.hxsiggc30</p>
+
+<h3>9. Cheatsheet style for RN</h3>
+<p>https://github.com/vhpoet/react-native-styling-cheat-sheet</p>
