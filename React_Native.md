@@ -59,3 +59,7 @@ https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 
 <h3>9. Cheatsheet style for RN</h3>
 <p>https://github.com/vhpoet/react-native-styling-cheat-sheet</p>
+
+<h3>10. Splash & Icon App</h3>
+<p>ICON: https://blog.bam.tech/developper-news/how-to-generate-your-react-native-app-icons-in-a-single-command-line</p>
+<p>SPLASH https://github.com/react-native-component/react-native-smart-splash-screen</p>
