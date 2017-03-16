@@ -23,6 +23,8 @@
 </p>
 
 <p>* Đủ thứ đồ chơi của RN: http://reactscript.com/</p>
+<p>* Tổng hợp Component cho RN: https://github.com/booxood/fetch-react-native-components</p>
+
 <h3>3. Viết 1 Component trong RN giống như làm với ReactJS</h3>
 <p>Xem trong Khoa Phạm có nói rất dễ hiểu</p>
 <h3>4. Router = Navigator trong RN</h3>
