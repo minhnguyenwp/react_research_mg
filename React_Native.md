@@ -67,3 +67,5 @@ https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 <p>SPLASH:
 Later --> https://github.com/hypery2k/nativescript-media-generator
 https://github.com/react-native-component/react-native-smart-splash-screen</p>
+<h3>11. Notification</h3>
+<p>https://github.com/wix/react-native-notifications</p>
