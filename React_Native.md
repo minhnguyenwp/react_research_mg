@@ -72,3 +72,7 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 
 <h3>12. Local DB</h3>
 <p>https://github.com/smartdemocracy/react-native-local-mongodb#speed</p>
+
+<h3>13. List View</h3>
+<p>- Refresh: https://www.youtube.com/watch?v=L8cZyXl37BU </p>
+<p>- onEndReach in ListView</p>
