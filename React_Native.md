@@ -69,3 +69,6 @@ Later --> https://github.com/hypery2k/nativescript-media-generator
 https://github.com/react-native-component/react-native-smart-splash-screen</p>
 <h3>11. Notification</h3>
 <p>https://github.com/wix/react-native-notifications</p>
+
+<h3>12. Local DB</h3>
+<p>https://github.com/smartdemocracy/react-native-local-mongodb#speed</p>
