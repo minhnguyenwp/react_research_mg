@@ -76,3 +76,9 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 <h3>13. List View</h3>
 <p>- Refresh: https://www.youtube.com/watch?v=L8cZyXl37BU </p>
 <p>- onEndReach in ListView</p>
+
+<h3>14. Update Android_home</h3>
+<p>- export ANDROID_HOME=/Users/{username-pc}/Library/Android/sdk     (/Users/minh/Library/Android/sdk)</p>
+<p>- update ADB: export PATH="/Users/minh/Library/Android/sdk/platform-tools":$PATH</p>
+<p>- adb reverse tcp:8081 tcp:8081</p>
+
