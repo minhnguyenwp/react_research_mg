@@ -83,3 +83,5 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 <p>- update ADB: export PATH="/Users/minh/Library/Android/sdk/platform-tools":$PATH</p>
 <p>- adb reverse tcp:8081 tcp:8081</p>
 
+<h3>15. Net info - checking internet</h3>
+<p>https://facebook.github.io/react-native/docs/netinfo.html</p>
