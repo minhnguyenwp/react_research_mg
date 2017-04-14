@@ -85,3 +85,6 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 
 <h3>15. Net info - checking internet</h3>
 <p>https://facebook.github.io/react-native/docs/netinfo.html</p>
+
+<h3>16. DB </h3>
+<p>- http://stackoverflow.com/questions/37342528/reactnative-best-approach-to-share-a-sqlite-instance-across-all-components-and</p>
