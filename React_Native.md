@@ -88,3 +88,4 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 
 <h3>16. DB </h3>
 <p>- http://stackoverflow.com/questions/37342528/reactnative-best-approach-to-share-a-sqlite-instance-across-all-components-and</p>
+<p>- REALM DB : https://realm.io/docs/javascript/latest/ </p>
