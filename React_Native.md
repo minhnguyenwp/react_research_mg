@@ -91,3 +91,6 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 <p>- REALM DB : https://realm.io/docs/javascript/latest/ </p>
 <h3>17. Open Settings</h3>
 <p>- https://github.com/rmrs/react-native-settings</p>
+
+<h3>18. Upgrading RN</h3>
+<p>https://facebook.github.io/react-native/docs/upgrading.html</p>
