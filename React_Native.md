@@ -67,6 +67,8 @@ https://viblo.asia/hieubm/posts/lA7GKnX4MKZQ
 <p>SPLASH:
 Later --> https://github.com/hypery2k/nativescript-media-generator
 https://github.com/react-native-component/react-native-smart-splash-screen</p>
+<p>https://github.com/bamlab/generator-rn-toolbox/blob/master/generators/assets/README.md</p>
+
 <h3>11. Notification</h3>
 <p>https://github.com/wix/react-native-notifications</p>
 
