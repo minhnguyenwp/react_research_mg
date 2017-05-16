@@ -94,3 +94,6 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 
 <h3>18. Upgrading RN</h3>
 <p>https://facebook.github.io/react-native/docs/upgrading.html</p>
+
+<h3>19. iOS After applying Splash - Shorter</h3>
+<p>http://stackoverflow.com/questions/34027270/ios-launch-screen-in-react-native</p>
