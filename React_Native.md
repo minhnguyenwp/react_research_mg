@@ -99,3 +99,10 @@ https://github.com/react-native-component/react-native-smart-splash-screen</p>
 
 <h3>19. iOS After applying Splash - Shorter</h3>
 <p>http://stackoverflow.com/questions/34027270/ios-launch-screen-in-react-native</p>
+<p>My App does not use a launch image. Setting the "Launch Screen File" to my "main.storyboard" file fixed the issue for me.
+
+This setting can be found under "Target->General->App Icons and Launch Images"
+
+Use the following link for more information: http://oleb.net/blog/2014/08/replacing-launch-images-with-storyboards/
+</p>
+
