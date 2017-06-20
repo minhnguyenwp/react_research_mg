@@ -152,3 +152,4 @@ action({ store }) {
 }
 </pre>
 <p>https://github.com/kriasoft/react-starter-kit/pull/1183/files</p>
+<p>https://github.com/kriasoft/react-starter-kit/pull/1053/files</p>
