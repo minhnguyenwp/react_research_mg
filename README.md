@@ -143,3 +143,11 @@ vd: https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/actions
 24 * Auth in React by Router. :
 https://github.com/erikras/react-redux-universal-hot-example/blob/master/src/routes.js
 <p>Xem các bước làm: https://gist.github.com/iNikNik/f39c7dbeef384966c5ec#file-0-redux-auth-md</p>
+<pre>
+action({ store }) {
+  if (store.getState().user) {
+    /* user is logged in */
+  }
+  /* else */
+}
+</pre>
