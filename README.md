@@ -158,3 +158,5 @@ action({ store }) {
 25 * Context React 
 <p>Để truyển và sửa, tác động data vượt cấp từ root tới con</p>
 <p>https://facebook.github.io/react/docs/context.html</p>
+26 * LogOut
+<p>https://github.com/kriasoft/react-starter-kit/issues/1069</p>
