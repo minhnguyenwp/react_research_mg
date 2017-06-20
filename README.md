@@ -153,6 +153,8 @@ action({ store }) {
 </pre>
 <p>https://github.com/kriasoft/react-starter-kit/pull/1183/files</p>
 <p>https://github.com/kriasoft/react-starter-kit/pull/1053/files</p>
+<p>Lý thuyết flow: https://auth0.com/blog/adding-authentication-to-your-react-flux-app/</p>
+
 25 * Context React 
 <p>Để truyển và sửa, tác động data vượt cấp từ root tới con</p>
 <p>https://facebook.github.io/react/docs/context.html</p>
