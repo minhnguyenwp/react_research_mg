@@ -151,3 +151,4 @@ action({ store }) {
   /* else */
 }
 </pre>
+<p>https://github.com/kriasoft/react-starter-kit/pull/1183/files</p>
