@@ -160,3 +160,6 @@ action({ store }) {
 <p>https://facebook.github.io/react/docs/context.html</p>
 26 * LogOut
 <p>https://github.com/kriasoft/react-starter-kit/issues/1069</p>
+
+<h2> Next JS </h2>
+_________
