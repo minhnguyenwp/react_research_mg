@@ -110,3 +110,4 @@ This setting can be found under "Target->General->App Icons and Launch Images"
 Use the following link for more information: http://oleb.net/blog/2014/08/replacing-launch-images-with-storyboards/
 </p>
 
+<p>* Good plugins: https://medium.com/rigor-solutions/awesome-components-for-your-next-reactive-native-project-6c4cded2e67a</p>
