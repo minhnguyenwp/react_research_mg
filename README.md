@@ -162,4 +162,9 @@ action({ store }) {
 <p>https://github.com/kriasoft/react-starter-kit/issues/1069</p>
 
 <h2> Next JS </h2>
-_________
+<p>https://learnnextjs.com/basics/getting-started</p>
+<p>1. SASS CSS: https://github.com/zeit/next.js/tree/master/examples/with-global-stylesheet</p>
+<p>2. Set Up server: https://github.com/zeit/next.js/tree/master/examples/custom-server-express</p>
+<p>3. Redux + redux Observer: https://github.com/zeit/next.js/tree/master/examples/with-redux-observable</p>
+<p>4. Config route: https://github.com/gvergnaud/nextjs-dynamic-routes/tree/master/example/express</p>
+
