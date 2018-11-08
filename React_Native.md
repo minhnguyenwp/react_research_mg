@@ -114,5 +114,5 @@ Use the following link for more information: http://oleb.net/blog/2014/08/replac
 <p>* Good plugins: https://medium.com/rigor-solutions/awesome-components-for-your-next-reactive-native-project-6c4cded2e67a</p>
 <p>2018. 2 - Cached Image: https://github.com/wcandillon/react-native-img-cache</p>
 <p>2018. 3 (11.2018) - https://apiko.com/blog/10-react-native-open-source-projects-you-must-know/</p>
-
+<p>iPhoneX - https://medium.com/react-native-training/react-native-iphonex-92ff511282af</p>
 <p>*** Thư viện RN Comp: http://www.awesome-react-native.com/</p>
