@@ -118,4 +118,5 @@ Use the following link for more information: http://oleb.net/blog/2014/08/replac
 <p> IMAGE LOAD FAST: https://viblo.asia/p/thu-vien-load-anh-react-native-fast-image-YWOZr0JR5Q0</p>
 <p>https://www.npmjs.com/package/react-native-snap-carousel</p>
 <p>https://www.npmjs.com/package/react-native-image-slider-agb?activeTab=readme</p>
+<p>https://github.com/phil-r/react-native-looped-carousel</p>
 <p>*** Thư viện RN Comp: http://www.awesome-react-native.com/</p>
