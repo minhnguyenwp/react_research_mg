@@ -121,4 +121,5 @@ Use the following link for more information: http://oleb.net/blog/2014/08/replac
 <p>https://github.com/phil-r/react-native-looped-carousel</p>
 <p>*** Thư viện RN Comp: http://www.awesome-react-native.com/</p>
 <h2>PUBLISH APP to STORE</h2>
-<p>iOS: https://viblo.asia/p/ios-lam-the-nao-de-upload-1-ung-dung-len-app-store-RQqKLgkO57z</p>
+<p>iOS: https://techmaster.vn/posts/8143/trien-khai-ung-dung-ios</p>
+<p>After add cert and provi, should restart MAC</p>
