@@ -122,4 +122,4 @@ Use the following link for more information: http://oleb.net/blog/2014/08/replac
 <p>*** Thư viện RN Comp: http://www.awesome-react-native.com/</p>
 <h2>PUBLISH APP to STORE</h2>
 <p>iOS: https://techmaster.vn/posts/8143/trien-khai-ung-dung-ios</p>
-<p>After add cert and provi, should restart MAC</p>
+<p>After adding cert and provi, should restart MAC</p>
