@@ -123,3 +123,4 @@ Use the following link for more information: http://oleb.net/blog/2014/08/replac
 <h2>PUBLISH APP to STORE</h2>
 <p>iOS: https://techmaster.vn/posts/8143/trien-khai-ung-dung-ios</p>
 <p>After adding cert and provi, should restart MAC</p>
+<p>https://play.google.com/apps/publish</p>
