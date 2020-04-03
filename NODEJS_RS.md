@@ -6,3 +6,4 @@
 REF link: https://github.com/mbaezpy/trentose2018-nodejs/blob/master/day2/README.md
 3. signedCookie: kieu nhu token session. khogn ung dung nhieu trong thuc te.
 4. dot env de config environment. .env
+5. Upload file , Form multi-datapart va co middleware "multer"
