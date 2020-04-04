@@ -15,3 +15,10 @@ REF link: https://github.com/mbaezpy/trentose2018-nodejs/blob/master/day2/README
 - https://github.com/madhums/node-express-mongoose-demo/tree/master/config
 - https://github.com/chauminhthien/WebBanHangBangNodeJs / https://www.youtube.com/watch?v=8qY9G27HI04&feature=youtu.be
 - https://github.com/Minkov/Superheroes-Universe
+
+- Hoc graphQL 
+- Passport / JWL 
+- 1 so cai ben trong NODEJS. 
+- query. 
+
+XONG coi SailJS.
